@@ -1,3 +1,5 @@
+*Pour éditer une tâche il faut maintenir le clique*
+
 # Setup
 Il y a 2 branches à votre disposition, une utilisant [Bun](https://github.com/Projets-Next-U-Jordan/todo_rn/tree/bun) et une utilisant [Node](https://github.com/Projets-Next-U-Jordan/todo_rn/tree/node) (les projets sont fondamentalement les mêmes il y a juste les dépendances qui changent)
 
